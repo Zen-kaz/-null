@@ -1,0 +1,1 @@
+alert("dreams are mere inspiration to your goal!!");
